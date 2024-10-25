@@ -175,7 +175,6 @@ function handleFilter() {
 /**
  * Sorts the displayed book list by rating in descending order when the button is clicked.
  * 
- * 
  * @description
  * This function is triggered when the user clicks on the button with the id 'sort-rating'.
  * It sorts the currently displayed list of books based on their ratings.
